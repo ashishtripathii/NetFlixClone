@@ -5,7 +5,7 @@ import hero_title from '../../assets/hero_title.png';
 import play_icon from '../../assets/play_icon.png';
 import info_icon from '../../assets/info_icon.png';
 import TitleCards from '../../components/TitleCards/Titlecards.jsx';
-import Footer from '../../components/footer/Footer.jsx';
+import Footer from '../../components/Footer/Footer.jsx';
 const Home = () => {
     return (
         <div className='home'>
